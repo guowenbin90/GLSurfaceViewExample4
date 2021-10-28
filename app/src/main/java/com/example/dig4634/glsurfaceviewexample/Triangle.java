@@ -51,11 +51,11 @@ public class Triangle extends ShadedTexturedModel {
         });
 
         setUV(new float[]{
-                0.5f,0.5f, //This is the pixel of the texture that will be attached to vertex (id:0)
-                0,0, //This is the pixel of the texture that will be attached to vertex (id:1)
-                1,0, //This is the pixel of the texture that will be attached to vertex (id:2)
-                0,1, //This is the pixel of the texture that will be attached to vertex (id:3)
-                1,1, //This is the pixel of the texture that will be attached to vertex (id:4)
+//                0.5f,0.5f, //This is the pixel of the texture that will be attached to vertex (id:0)
+//                0,0, //This is the pixel of the texture that will be attached to vertex (id:1)
+//                1,0, //This is the pixel of the texture that will be attached to vertex (id:2)
+//                0,1, //This is the pixel of the texture that will be attached to vertex (id:3)
+//                1,1, //This is the pixel of the texture that will be attached to vertex (id:4)
         });
 
 //        setNormals(new float[]{
